@@ -1,0 +1,77 @@
+body {
+  height: 500vh;
+  width: 100vw;
+  overflow-x: hidden;
+  margin: 0;
+}
+
+#root {
+  background-color: rgb(83, 119, 126);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper {
+  height: 99%;
+  width: 95%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.wrapper > div {
+  height: 19%;
+  width: 100%;
+  background-color: rgba(98, 0, 128, 0.342);
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  font-family: sans-serif;  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Part1 {
+  background-color: rgba(210, 105, 30, 0.178) !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
