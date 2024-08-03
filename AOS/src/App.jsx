@@ -39,7 +39,7 @@ function App() {
         <h1>Main one</h1>
       </div>
       <div className='Part2' data-aos="fade-up">
-        <h1  data-aos="fade-left">Fade up</h1>
+        <h1 data-aos="fade-left">Fade up</h1>
       </div>
       <div className='Part3' data-aos="fade-right"></div>
       <div className='Part4' data-aos="fade-left"></div>

@@ -9,7 +9,3 @@
 
 #### b. Import script, styles and initialize AOS:
 
-- import AOS from 'aos';
-- import 'aos/dist/aos.css';
-    
-- AOS.init();
